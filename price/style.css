@@ -17,11 +17,11 @@ body {
 }
 
 .card .details li {
-    margin: 15px 0;
+    margin: 20px 0;
 }
 
 .card {
-    width: 220px;
+    width: 200px;
     height: 370px;
     border-radius: 1.5rem;
     padding: 30px;
@@ -52,18 +52,18 @@ body {
 }
 
 .card:nth-child(1) {
-    background: linear-gradient(to left, #39df68, #224a94, #df2eeb);
+    background: linear-gradient(to left, #393cdf, #224a94, #df2eeb);
 }
 
 .card:nth-child(2) {
-    background: linear-gradient(to left, #cbb02b, #e22e31, #1137a9);
+    background: linear-gradient(to left, #cb882b, #e22e31, #1137a9);
     width: 260px;
     height: 410px;
     top: 40px;
 }
 
 .card:nth-child(3) {
-    background: linear-gradient(to left, #f22e90, #21ba52, #d8af19);
+    background: linear-gradient(to left, #ad2ef2, #21ba52, #d8af19);
 }
 
 .card .plan::before, .card .plan::after {
