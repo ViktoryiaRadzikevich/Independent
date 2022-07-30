@@ -56,14 +56,14 @@ body {
 }
 
 .card:nth-child(2) {
-    background: linear-gradient(to left, #cb882b, #e22e31, #1137a9);
+    background: linear-gradient(to left, #f49e25, #e22e31, #0b2163);
     width: 260px;
     height: 410px;
     top: 40px;
 }
 
 .card:nth-child(3) {
-    background: linear-gradient(to left, #ad2ef2, #21ba52, #d8af19);
+    background: linear-gradient(to left, #aa18f9, #21ba52, #e9c545);
 }
 
 .card .plan::before, .card .plan::after {
